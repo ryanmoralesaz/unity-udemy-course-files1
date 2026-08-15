@@ -1,0 +1,16 @@
+using UnityEngine;
+
+public class Print2Console : MonoBehaviour
+{
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    void Start()
+    {
+       Debug.Log("I am writing code!");
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+
+    }
+}
